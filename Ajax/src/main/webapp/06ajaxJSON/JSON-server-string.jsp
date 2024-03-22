@@ -1,6 +1,7 @@
 <%@page contentType="text/html; charset=EUC-KR" %>
 <%@page pageEncoding="EUC-KR"%>
-
+<%@page import="org.json.simple.JSONObject" %>
+<%@page import="org.json.simple.JSONArray" %>
 <%-- 
 		//JSON(JavaScript Object Notation)
 	 	//==> 1. name= value Notation
